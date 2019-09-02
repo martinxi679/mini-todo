@@ -1,6 +1,6 @@
 # CS8803 MAS Project Assignment 1
 
-Team member:  Martin  ,   Yiwen Bu
+Team member: Ji Xi, Yiwen Bu
 
 ## Mobile application
 ### Minimal ToDo list
