@@ -5,8 +5,6 @@ Team member:  Martin  ,   Yiwen Bu
 ## Mobile application
 ### Minimal ToDo list
 A ToDo list with minimal function.
-Created by Christopher Gundersen
-Source code https://github.com/avjinder/Minimal-Todo
 
 
 # Screenshots:
